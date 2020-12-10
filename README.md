@@ -1,5 +1,5 @@
 # Electronics-and-Communication
-Notes of basic subjects that fall under Electronics and Communication Engineering. 
+Notes for basic subjects of Electronics and Communication Engineering. The content is largely relevant to GATE ECE syllabus.
 
 1. Signals, Systems and Signal Processing: mostly based on lectures of Prof.Alan V Oppenheim, MIT OCW and Prof.Aditya K Jagannatham, NPTEL.
 2. Circuit Theory and Analysis : mostly based on lectures of Prof.Nagendra Krishnapura, NPTEL and Prof.S C Dutta Roy, NPTEL.
